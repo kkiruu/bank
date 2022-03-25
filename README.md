@@ -237,5 +237,3 @@
 236.     return 0;
 237.  
 238. }
-239. Conclusion :
-240. This is the full source code for the Bank ATM machine Project in C++, We can use it in the assignment projec
